@@ -1,5 +1,5 @@
 // ES6
-console.log("ES6");
+
 class Person {
   constructor(name, age, gender) {
     this.name = name;
